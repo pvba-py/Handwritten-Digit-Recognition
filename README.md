@@ -51,8 +51,7 @@ Live App: [https://pvba-hdr-cnn.streamlit.app/](https://pvba-hdr-cnn.streamlit.a
 ## Author
 
 PVB ADITHYA  
-HU22CSEN0300024  
-B.Tech in Computer Science
+BTECH - CSE-AIML
 
 ---
 
